@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haykins</h1>
-<h3 align="center">A passionate principal software engineer from Lagos, Nigeria</h3>
+<h3 align="center">A passionate principal software engineer from Lagos, Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisishaykins&label=Profile%20views&color=0e75b6&style=flat" alt="thisishaykins" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Lifteller](https://github.com/lifteller), [Distinct.AI](https://distinct.ai), many other
 
-- 👨‍💻 All of my projects are available at [https://akinshola.com](https://akinshola.com)
+- 👨‍💻 All of my projects are available at [https://akinshola.com](https://linktr.ee/thisishyakins)
 
-- 📝 I regularly write articles on [https://dev.to/thisishaykins](https://dev.to/thisishaykins)
+- 📝 I try to regularly write articles on [https://dev.to/thisishaykins](https://dev.to/thisishaykins), more are in drafts 👨‍💻
 
 - 📫 How to reach me **thisishaykins@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences [Here...](https://linkedin.com/in/akinshola)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thisishaykins&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
